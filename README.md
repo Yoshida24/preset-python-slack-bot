@@ -1,2 +1,2 @@
 # preset-python-slack-bot
-Slack bot の基本構成
+Preset for development Slack Bot using Python.
